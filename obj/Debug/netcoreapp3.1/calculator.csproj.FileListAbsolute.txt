@@ -1,0 +1,12 @@
+/Users/josephbrown/calculator/bin/Debug/netcoreapp3.1/calculator.deps.json
+/Users/josephbrown/calculator/bin/Debug/netcoreapp3.1/calculator.runtimeconfig.json
+/Users/josephbrown/calculator/bin/Debug/netcoreapp3.1/calculator.runtimeconfig.dev.json
+/Users/josephbrown/calculator/bin/Debug/netcoreapp3.1/calculator.dll
+/Users/josephbrown/calculator/bin/Debug/netcoreapp3.1/calculator.pdb
+/Users/josephbrown/calculator/obj/Debug/netcoreapp3.1/calculator.csprojAssemblyReference.cache
+/Users/josephbrown/calculator/obj/Debug/netcoreapp3.1/calculator.csproj.CoreCompileInputs.cache
+/Users/josephbrown/calculator/obj/Debug/netcoreapp3.1/calculator.AssemblyInfoInputs.cache
+/Users/josephbrown/calculator/obj/Debug/netcoreapp3.1/calculator.AssemblyInfo.cs
+/Users/josephbrown/calculator/obj/Debug/netcoreapp3.1/calculator.dll
+/Users/josephbrown/calculator/obj/Debug/netcoreapp3.1/calculator.pdb
+/Users/josephbrown/calculator/obj/Debug/netcoreapp3.1/calculator.genruntimeconfig.cache
